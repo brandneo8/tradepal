@@ -1,0 +1,2 @@
+logo-big.png 220x135
+logo-big_h68.png 143x68
