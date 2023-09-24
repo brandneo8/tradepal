@@ -1,0 +1,7 @@
+.floating-total--container {
+    height: 200px;
+    display: block;
+    background-color: #CCC;
+    color: #000;
+    width: 100%;
+}
