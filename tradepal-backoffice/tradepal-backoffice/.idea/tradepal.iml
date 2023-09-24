@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/alchemy/binary-driver" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/evenement/evenement" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/neutron/temporary-filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/php-ffmpeg/php-ffmpeg" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/translation-contracts" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

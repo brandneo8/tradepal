@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6fd23190-1038-41bc-a470-9ee6b0786f98" name="tradepal-backend" url="http://165.22.243.228">
+        <fileTransfer host="165.22.243.228" port="22" rootFolder="/www/wwwroot/alert2u.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
