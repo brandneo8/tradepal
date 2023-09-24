@@ -1,0 +1,1 @@
+<?phpif (!defined('BASEPATH'))    exit('No direct script access allowed');class SSTable {    public function __construct() {        # Autoload PHPMailer        require_once('ssp/ssp.php');    }}
