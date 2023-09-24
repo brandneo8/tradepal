@@ -1,0 +1,319 @@
+0000000000000000000000000000000000000000 4f6707f04276f865bda3f6cddb5e484a6b3d8678 Kunboom Keawsongkort <keawsongkort@gmail.com> 1585109636 +0700	clone: from https://siamsoft@bitbucket.org/SiamSoftwareWebDev/tradepal.git
+4f6707f04276f865bda3f6cddb5e484a6b3d8678 cf66916e22764df1fa734a4643a90e3958617b02 Kunboom Keawsongkort <keawsongkort@gmail.com> 1585109743 +0700	commit: Start Code
+cf66916e22764df1fa734a4643a90e3958617b02 205e2c330d4783a106ee1257341a33a92682db38 Kunboom Keawsongkort <keawsongkort@gmail.com> 1585478947 +0700	pull --no-commit origin master: Fast-forward
+205e2c330d4783a106ee1257341a33a92682db38 bdde345ce4d3c5f3a23fbaa4d11f960264ad821a Kunboom Keawsongkort <keawsongkort@gmail.com> 1585479775 +0700	commit: no message
+bdde345ce4d3c5f3a23fbaa4d11f960264ad821a 54f3afb27b5bee1a867649320e07d831ec1740ad Kunboom Keawsongkort <keawsongkort@gmail.com> 1585480064 +0700	commit: cors
+54f3afb27b5bee1a867649320e07d831ec1740ad f4e2022a02ec89f841dc8056fe269d4509026b1e Kunboom Keawsongkort <keawsongkort@gmail.com> 1585480374 +0700	commit: no message
+f4e2022a02ec89f841dc8056fe269d4509026b1e ec173fa43bb555e71556a7f9e0fe973478e52afc Kunboom Keawsongkort <keawsongkort@gmail.com> 1585480476 +0700	commit: no message
+ec173fa43bb555e71556a7f9e0fe973478e52afc f0d628bddf4c42623e2a1ff51eb16623f0a5e421 Kunboom Keawsongkort <keawsongkort@gmail.com> 1585480633 +0700	commit: no message
+f0d628bddf4c42623e2a1ff51eb16623f0a5e421 fb27bb11156a85d18443246fa1ec6b06f04df086 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586352844 +0700	pull --no-commit origin master: Fast-forward
+fb27bb11156a85d18443246fa1ec6b06f04df086 3e025cd7c6be618072475e48c5e07574d9299054 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586449128 +0700	commit: commit
+3e025cd7c6be618072475e48c5e07574d9299054 b456d7a3e58f093d2e4ae2459a3bb4b5c15fc017 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586449284 +0700	commit: commit
+b456d7a3e58f093d2e4ae2459a3bb4b5c15fc017 6e5ef0ea2e318b92bc25f00cc3e7b3bb59df78d1 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586449493 +0700	commit: commit
+6e5ef0ea2e318b92bc25f00cc3e7b3bb59df78d1 4777acb4be635bff8f491a8a44583cffd0d65ec6 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586449939 +0700	commit: commit
+4777acb4be635bff8f491a8a44583cffd0d65ec6 17b4e722cc9873a9dd835f4b377fe362a3391625 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586450153 +0700	commit: no message
+17b4e722cc9873a9dd835f4b377fe362a3391625 1d81f9ae068edb8e0c65db87c970761da9308432 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586466388 +0700	commit: edit style
+1d81f9ae068edb8e0c65db87c970761da9308432 4c7439fa5ee5c998f91e3268344d7017af3852d4 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586805440 +0700	commit: no message
+4c7439fa5ee5c998f91e3268344d7017af3852d4 edf60aa2ab9ee5b075ee586c1645eb7ca1f47a31 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586805463 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+edf60aa2ab9ee5b075ee586c1645eb7ca1f47a31 ed1012a1f208f08216d3b4b9d4421ad6956e89fa Kunboom Keawsongkort <keawsongkort@gmail.com> 1586809593 +0700	commit: view Cases
+ed1012a1f208f08216d3b4b9d4421ad6956e89fa e11e277e9c6b168ffa90d43fe544845c93129c4e Kunboom Keawsongkort <keawsongkort@gmail.com> 1586855921 +0700	commit: no message
+e11e277e9c6b168ffa90d43fe544845c93129c4e 4c27897a44fbbdc3d090e9b1fe660434bfe059c9 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586855940 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+4c27897a44fbbdc3d090e9b1fe660434bfe059c9 458e529499c9c6891b3864c519167574ed2e9069 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586873928 +0700	commit: no message
+458e529499c9c6891b3864c519167574ed2e9069 cfb1b88451a9a19658fb3bcaa12d3e6df7f5c010 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586873955 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+cfb1b88451a9a19658fb3bcaa12d3e6df7f5c010 594fd18718cf7118f8ee7a495c04abe400d850bd Kunboom Keawsongkort <keawsongkort@gmail.com> 1586874059 +0700	pull --no-commit origin master: Fast-forward
+594fd18718cf7118f8ee7a495c04abe400d850bd 84999c4a8c4bc126e8a52601b1a908566460a0e8 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586877504 +0700	commit: no message
+84999c4a8c4bc126e8a52601b1a908566460a0e8 942a5f3e7a074597ee762cfbea4395b22fc5b74a Kunboom Keawsongkort <keawsongkort@gmail.com> 1586877519 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+942a5f3e7a074597ee762cfbea4395b22fc5b74a 385ba5a37f32d8d6a745cfc9b0ec70a2f3e6b70e Kunboom Keawsongkort <keawsongkort@gmail.com> 1586882349 +0700	commit: no message
+385ba5a37f32d8d6a745cfc9b0ec70a2f3e6b70e 585d48f92ca3056628db6c77bbd73a4b797f5ec5 Kunboom Keawsongkort <keawsongkort@gmail.com> 1586884870 +0700	commit: no message
+585d48f92ca3056628db6c77bbd73a4b797f5ec5 59c0cd2feec6d4bec0f00c05a5450a3e5542cc1e Kunboom Keawsongkort <keawsongkort@gmail.com> 1587452274 +0700	pull --no-commit origin master: Fast-forward
+59c0cd2feec6d4bec0f00c05a5450a3e5542cc1e 55df68739ab515ad0d23bfbb710ff9c4098d91c2 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587455215 +0700	commit: commit ui
+55df68739ab515ad0d23bfbb710ff9c4098d91c2 9bafc76c01570071ec1b1b02601e6533f247400f Kunboom Keawsongkort <keawsongkort@gmail.com> 1587458251 +0700	commit: commit
+9bafc76c01570071ec1b1b02601e6533f247400f 863905dc8d2eca906b5cbab7dfc1d71d825fe4ff Kunboom Keawsongkort <keawsongkort@gmail.com> 1587546490 +0700	commit: no message
+863905dc8d2eca906b5cbab7dfc1d71d825fe4ff 4fcaa55e96b35bbc32f3023dd6c030656fb23ca3 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587546502 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+4fcaa55e96b35bbc32f3023dd6c030656fb23ca3 2c91b1578a58839a232923ce6202a8f4e2ba575d Kunboom Keawsongkort <keawsongkort@gmail.com> 1587551070 +0700	commit: no message
+2c91b1578a58839a232923ce6202a8f4e2ba575d 19b50940da1b9ae1cba96945e98ab182e810c849 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587551106 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+19b50940da1b9ae1cba96945e98ab182e810c849 278967c84b420c202d0ff1a7c57884b04e3322e5 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587568725 +0700	commit: no message
+278967c84b420c202d0ff1a7c57884b04e3322e5 610db0a4c80992fabf9349788dd951aa556cdf53 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587568740 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+610db0a4c80992fabf9349788dd951aa556cdf53 97056b7123a138cfaaf85e32b57cd6157117c19a Kunboom Keawsongkort <keawsongkort@gmail.com> 1587569347 +0700	commit: no message
+97056b7123a138cfaaf85e32b57cd6157117c19a 84c62a38612ec44972d6d1a7135d051fc978073e Kunboom Keawsongkort <keawsongkort@gmail.com> 1587595789 +0700	commit: no message
+84c62a38612ec44972d6d1a7135d051fc978073e e604c8f2b6b91007a40687da049402c045d41598 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587595935 +0700	commit: no message
+e604c8f2b6b91007a40687da049402c045d41598 7fd0dfe4787c59f4360a9c02ab863eed7c24fe1a Kunboom Keawsongkort <keawsongkort@gmail.com> 1587596175 +0700	commit: no message
+7fd0dfe4787c59f4360a9c02ab863eed7c24fe1a 287c6bc1034469b31b20fa82dc6224fe39fe7523 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587644530 +0700	commit: commit
+287c6bc1034469b31b20fa82dc6224fe39fe7523 1d00e6188ae73d230f2dde1f5346f010969c76ed Kunboom Keawsongkort <keawsongkort@gmail.com> 1587644541 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+1d00e6188ae73d230f2dde1f5346f010969c76ed 65c39836bc51b2c655dadc52255176292a54ca66 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587645101 +0700	commit: no message
+65c39836bc51b2c655dadc52255176292a54ca66 de2cf0527735590148aba456080d9758c2851bb9 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587650110 +0700	commit: no message
+de2cf0527735590148aba456080d9758c2851bb9 b2ba96274a359b6b3b0ebad95b9d0cef41f71947 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587650988 +0700	commit: no message
+b2ba96274a359b6b3b0ebad95b9d0cef41f71947 1c2b9dee9fd159327eed6dea5b1e80f4d907facf Kunboom Keawsongkort <keawsongkort@gmail.com> 1587660386 +0700	commit: no message
+1c2b9dee9fd159327eed6dea5b1e80f4d907facf fc65f78c5307bb0c04c453838189861f61ebbf50 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587661082 +0700	commit: no message
+fc65f78c5307bb0c04c453838189861f61ebbf50 73e7fec5b7637709de8585536bc58da0ae32f8df Kunboom Keawsongkort <keawsongkort@gmail.com> 1587670088 +0700	commit: no message
+73e7fec5b7637709de8585536bc58da0ae32f8df ad468f3da5d3fce9d4d395e8e9a9400628da4bf6 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587672460 +0700	commit: no message
+ad468f3da5d3fce9d4d395e8e9a9400628da4bf6 54b2c7a66dd0bc5176bb8644abf056a564778c60 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587672834 +0700	commit: no message
+54b2c7a66dd0bc5176bb8644abf056a564778c60 a2869530a73ac5d09f83b1d5e112349f9be4d46a Kunboom Keawsongkort <keawsongkort@gmail.com> 1587672955 +0700	commit: no message
+a2869530a73ac5d09f83b1d5e112349f9be4d46a e6ed203ac7b682216e13b7e821c773b011ab465f Kunboom Keawsongkort <keawsongkort@gmail.com> 1587673075 +0700	commit: no message
+e6ed203ac7b682216e13b7e821c773b011ab465f d102ba890278f048551264f8639f3193da754479 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587674365 +0700	commit: no message
+d102ba890278f048551264f8639f3193da754479 8419416c03c00b72d32294c0d02c557909c4d3fa Kunboom Keawsongkort <keawsongkort@gmail.com> 1587674537 +0700	commit: no message
+8419416c03c00b72d32294c0d02c557909c4d3fa db5fe26c511df0e2eb8ff981b4577a95680f61d1 Kunboom Keawsongkort <keawsongkort@gmail.com> 1587674703 +0700	commit: no message
+db5fe26c511df0e2eb8ff981b4577a95680f61d1 ee3958999aa4b0a626b23c92a40c04f9f2c610ef Kunboom Keawsongkort <keawsongkort@gmail.com> 1587721811 +0700	pull --no-commit origin master: Fast-forward
+ee3958999aa4b0a626b23c92a40c04f9f2c610ef 400ef8606bec4a064cc67b092bb48d99429e137d ruj <ruj@siamsoftwaresolution.com> 1587722272 +0700	commit: ruj
+400ef8606bec4a064cc67b092bb48d99429e137d d51f7a87d2e79f919089dcdba043fb4fd53c79d0 ruj <ruj@siamsoftwaresolution.com> 1587722412 +0700	commit: keawsongkort@gmail.com to ruj@siamsoftwaresolution.com
+d51f7a87d2e79f919089dcdba043fb4fd53c79d0 0fcec48555f79e1202863a4476206810d55222b3 ruj <ruj@siamsoftwaresolution.com> 1587722909 +0700	commit: เปลี่ยนการใช้ email จาก keawsongkort@gmail.com เป็น ruj@siamsoftwaresolution.com
+0fcec48555f79e1202863a4476206810d55222b3 478a3ec039f012ee32955701de73af45be83e32b ruj <ruj@siamsoftwaresolution.com> 1587722929 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+478a3ec039f012ee32955701de73af45be83e32b 2dea7661d8ab3973ef2a64a40d65affd794b9dbe นายรุจ แก้วทรงกรด <ruj@siamsoftwaresolution.com> 1587723294 +0700	commit: เปลี่ยนชื่อ auther เป็นชื่อ นายรุจ แก้วทรงกรด
+2dea7661d8ab3973ef2a64a40d65affd794b9dbe aefd09d42b51a468437a0aa395886acc6b07ffe4 นายรุจ แก้วทรงกรด <ruj@siamsoftwaresolution.com> 1587723314 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+aefd09d42b51a468437a0aa395886acc6b07ffe4 87ef0da3cf683ce919ae04bae60a65927fdec200 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587723603 +0700	commit: เปลี่ยนชื่อ Auther เป็น ruj keawsongkort
+87ef0da3cf683ce919ae04bae60a65927fdec200 3b02c96d8a05fd948e1bedc28e049d7ea036bebc ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587765172 +0700	commit: no message
+3b02c96d8a05fd948e1bedc28e049d7ea036bebc fe8e7acf40afe3dc4816b00251c01b6c6270f2cb ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587765200 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+fe8e7acf40afe3dc4816b00251c01b6c6270f2cb 233ae9422b3c6baba74c50884d7186aafb28b704 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587765356 +0700	commit: no message
+233ae9422b3c6baba74c50884d7186aafb28b704 592e2b36079c6423f2c5c32bf2d4fc9d70fa5f68 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587765452 +0700	commit: no message
+592e2b36079c6423f2c5c32bf2d4fc9d70fa5f68 0372a0eaa1170fbac93fef351a65903f01d8fcc0 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587783958 +0700	commit: no message
+0372a0eaa1170fbac93fef351a65903f01d8fcc0 992e55b356a1f608b45643b298ca3738b92ee7bd ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587786896 +0700	commit: no message
+992e55b356a1f608b45643b298ca3738b92ee7bd 32fda81f118ea69f0e905405cccb233e9bb7ad9f ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587787492 +0700	commit: no message
+32fda81f118ea69f0e905405cccb233e9bb7ad9f 4dabab3908190cb11c9f3263bed85df185b94ecc ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587788243 +0700	commit: no message
+4dabab3908190cb11c9f3263bed85df185b94ecc f590989c518ba266b14614c30ba805144808dce2 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587788254 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+f590989c518ba266b14614c30ba805144808dce2 f66679522ac35b14df0af71444d2e3254742b3e1 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587831117 +0700	commit: no message
+f66679522ac35b14df0af71444d2e3254742b3e1 e0befdad5e0f18593633c99f1e98d8eb7424a2a0 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587831131 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+e0befdad5e0f18593633c99f1e98d8eb7424a2a0 843760e1607063a95e01d3ab6b0ddc52d8279a28 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587858418 +0700	commit: no message
+843760e1607063a95e01d3ab6b0ddc52d8279a28 5a77607de238a0123a5cb35cebdd73af7574a37c ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587867579 +0700	commit: no message
+5a77607de238a0123a5cb35cebdd73af7574a37c 72217a71017e9adf33e0871ffd8af891451a754b ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587867723 +0700	commit: no message
+72217a71017e9adf33e0871ffd8af891451a754b 3a3e2704bba27b9371837090aa0e761e9b7315bc ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587867896 +0700	commit: no message
+3a3e2704bba27b9371837090aa0e761e9b7315bc 55a61249db0cc33b73947b73039b0f5c72246ef4 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587869102 +0700	commit: no message
+55a61249db0cc33b73947b73039b0f5c72246ef4 03a084249b46a0fbf7c75220a8cd4b5f618f24a5 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587902082 +0700	commit: no message
+03a084249b46a0fbf7c75220a8cd4b5f618f24a5 fedcf0831cf7b534b6e43e0f3e3991588f1dd609 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587902095 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+fedcf0831cf7b534b6e43e0f3e3991588f1dd609 125914f76c5c98effa41866917a2cb95f1658294 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587903045 +0700	commit: no message
+125914f76c5c98effa41866917a2cb95f1658294 3fed2d1e8ae597aa88e8df5189464b48aceb8fba ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587911256 +0700	commit: no message
+3fed2d1e8ae597aa88e8df5189464b48aceb8fba 26fd2e6ee52146dbd63a07e9bb0ae259d2481e45 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587911270 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+26fd2e6ee52146dbd63a07e9bb0ae259d2481e45 bb3322568f703f906c2d7f73901c2bf2a39adf84 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587917692 +0700	commit: no message
+bb3322568f703f906c2d7f73901c2bf2a39adf84 29484213f6359df9b7af1e89cc8f9eafa9a4eb61 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587917702 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+29484213f6359df9b7af1e89cc8f9eafa9a4eb61 58fbdbb093d2bc98b24e2ff99546ac45eb15e46d ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587923162 +0700	commit: no message
+58fbdbb093d2bc98b24e2ff99546ac45eb15e46d a369450ed8d0296bc77c87a7167b6638986aa21d ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587974848 +0700	commit: no message
+a369450ed8d0296bc77c87a7167b6638986aa21d 5d3e7b6f2342e3457caf3e19b8ee280ac917bd2e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587974860 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+5d3e7b6f2342e3457caf3e19b8ee280ac917bd2e af6c2a7f0ac3573c559174437e40a9866eab6ba1 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1587975348 +0700	commit: no message
+af6c2a7f0ac3573c559174437e40a9866eab6ba1 20db2832e047838f4214ec76033d15d5d2f9b09e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588060654 +0700	pull --no-commit origin master: Fast-forward
+20db2832e047838f4214ec76033d15d5d2f9b09e 7c9333f2230f456bc311216b3cab2eef4eca370d ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588069392 +0700	commit: no message
+7c9333f2230f456bc311216b3cab2eef4eca370d c251f03f60c9af558cbd2fd9e4413948031520cf ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588069407 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+c251f03f60c9af558cbd2fd9e4413948031520cf 4bd97748add2f027f43eb7b1d9470ebd1918420b ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588079795 +0700	commit: no message
+4bd97748add2f027f43eb7b1d9470ebd1918420b 89681f487d67195dbc335d226af5451cfdc5a0fb ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588079820 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+89681f487d67195dbc335d226af5451cfdc5a0fb 5a25639bd4290b028a2e65703eec439730a8b16e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588080175 +0700	commit: no message
+5a25639bd4290b028a2e65703eec439730a8b16e 6c7b960858faae578ccac55e6caadecf3ffc9212 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588080468 +0700	commit: no message
+6c7b960858faae578ccac55e6caadecf3ffc9212 cd815be75d6fa9bbf340dd3c9be3fa03f627ea43 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588080591 +0700	commit: no message
+cd815be75d6fa9bbf340dd3c9be3fa03f627ea43 2273a5e007a31742464262701a55c6eec7e82d3a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588080705 +0700	commit: no message
+2273a5e007a31742464262701a55c6eec7e82d3a 0eebcec517faac48e56a65a4872629b6889c3233 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588082044 +0700	commit: no message
+0eebcec517faac48e56a65a4872629b6889c3233 07ca4655a3727a12285170207067754ea836f6ad ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588082064 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+07ca4655a3727a12285170207067754ea836f6ad 6f9802a1eb9412d1b91bd449864c5c617a63d23a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588083675 +0700	commit: no message
+6f9802a1eb9412d1b91bd449864c5c617a63d23a 78ab91c7579593b6cadb53e8a7f36455af071fb9 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588084204 +0700	commit: no message
+78ab91c7579593b6cadb53e8a7f36455af071fb9 eb87eab062a524db221265675413e4c764ff7384 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588084233 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+eb87eab062a524db221265675413e4c764ff7384 16586abd8d30bc2b7316a9a89282568f59d9a692 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588084591 +0700	commit: no message
+16586abd8d30bc2b7316a9a89282568f59d9a692 c3513d9e5ba2138f9aab2784e6ea6ea1f62ce018 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588084763 +0700	commit: no message
+c3513d9e5ba2138f9aab2784e6ea6ea1f62ce018 05ac7d6be39198612b01abf374ddf931df06d3c0 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588085149 +0700	commit: no message
+05ac7d6be39198612b01abf374ddf931df06d3c0 579f298e9f58262e3098267bcb8547e2d0fbf4fc ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588085764 +0700	commit: no message
+579f298e9f58262e3098267bcb8547e2d0fbf4fc b1644a4c4f29d97099cb4ab4e178094b16c4cd13 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588085822 +0700	commit: no message
+b1644a4c4f29d97099cb4ab4e178094b16c4cd13 ba93cae472bdd3c2736ec7eb826f9824d24cc66b ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588086114 +0700	commit: no message
+ba93cae472bdd3c2736ec7eb826f9824d24cc66b 6d21ab007f4ab51653965a2c9bcce4b7fe6c044e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588086870 +0700	commit: no message
+6d21ab007f4ab51653965a2c9bcce4b7fe6c044e ed08b8ec7c51ba02078644dbdcc315bb135bc03e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588087914 +0700	commit: no message
+ed08b8ec7c51ba02078644dbdcc315bb135bc03e 5d9859a51f7af8a747b9e354337fef7461251b65 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588090965 +0700	commit: no message
+5d9859a51f7af8a747b9e354337fef7461251b65 a15387ad5f663c9758c811828a4c8639a510e6c3 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588091042 +0700	commit: no message
+a15387ad5f663c9758c811828a4c8639a510e6c3 dda2f6f0a2852fa77ba68cf26d7634423295d99c ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588092915 +0700	commit: no message
+dda2f6f0a2852fa77ba68cf26d7634423295d99c 8979bce64a2c0d2d9a3309debefb0329cdfeeb05 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588106242 +0700	commit: mpdf
+8979bce64a2c0d2d9a3309debefb0329cdfeeb05 4ab62ec15ef88d759ac7d45cfa7746d7047663fe ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588106257 +0700	commit: mpdf
+4ab62ec15ef88d759ac7d45cfa7746d7047663fe 7949ac3c850573bd20f8ca8b30e5f170b286cd0d ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588106347 +0700	commit: no message
+7949ac3c850573bd20f8ca8b30e5f170b286cd0d 8672472122f168a74f78a65a7ca0df689e317929 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588107221 +0700	commit: no message
+8672472122f168a74f78a65a7ca0df689e317929 11e7d80cda81b9bd32f13cecee7f9a49c490c836 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588107822 +0700	commit: no message
+11e7d80cda81b9bd32f13cecee7f9a49c490c836 3dfffb05e5188a04b4097bdeb0212f5883421a5c ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588108138 +0700	commit: no message
+3dfffb05e5188a04b4097bdeb0212f5883421a5c 880df4dbc0c5f502aacb720f846e43b5554a7c01 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588108485 +0700	commit: no message
+880df4dbc0c5f502aacb720f846e43b5554a7c01 51831ad058cbb7d16488e1ad62a59e6b3923202a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588108557 +0700	commit: no message
+51831ad058cbb7d16488e1ad62a59e6b3923202a 0f8fe55f6954fa05addf06513ae8b5763cf0749d ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588108720 +0700	commit: no message
+0f8fe55f6954fa05addf06513ae8b5763cf0749d cc324d5366987889ebdc63095127232d52b5cf0e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588113037 +0700	commit: pdf_handover_acknowledgement
+cc324d5366987889ebdc63095127232d52b5cf0e 7736b5fc5a4f532af592bd725963392943038d8f ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588145825 +0700	commit: no message
+7736b5fc5a4f532af592bd725963392943038d8f 6889246379000cdffc03e91564ed2cc56756a48c ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588145838 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+6889246379000cdffc03e91564ed2cc56756a48c 752bf7e92e02ff890771a3f6c657d6b2b542c14e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588154122 +0700	commit: no message
+752bf7e92e02ff890771a3f6c657d6b2b542c14e fc09c3f29c89cb5e7dc39f1f03fbb8e2086fed46 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588154137 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+fc09c3f29c89cb5e7dc39f1f03fbb8e2086fed46 ee31d195587d53ed332ccb6797486f43214e9261 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588521379 +0700	commit: no message
+ee31d195587d53ed332ccb6797486f43214e9261 6e98cd2911e5ff19a07b59d2f64b908886d36a7a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588521396 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+6e98cd2911e5ff19a07b59d2f64b908886d36a7a 1eef64ad69f535ca1d99533e5a94507e3ca4bcf8 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588521624 +0700	commit: no message
+1eef64ad69f535ca1d99533e5a94507e3ca4bcf8 889425f64addd8009b23434c7e45a1d4d1429cda ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588538335 +0700	commit: no message
+889425f64addd8009b23434c7e45a1d4d1429cda b858aacf95ebf25465b96e5fb48d6f5adcb565fd ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588538916 +0700	commit: no message
+b858aacf95ebf25465b96e5fb48d6f5adcb565fd 5c90d5dc4f40616547887f66e8b48d2379f3d4ca ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588539085 +0700	commit: no message
+5c90d5dc4f40616547887f66e8b48d2379f3d4ca 61ad972ea641d8eebe9289edfb92eccd825cbdf4 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588595345 +0700	commit: no message
+61ad972ea641d8eebe9289edfb92eccd825cbdf4 5d2ec696d8efb59f80f8c0595de9492c7f982538 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588596097 +0700	commit: no message
+5d2ec696d8efb59f80f8c0595de9492c7f982538 0241c8e230a12ad87c48bc7209738051e8aa25ed ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588596119 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+0241c8e230a12ad87c48bc7209738051e8aa25ed 64006d10dfbe0a40a9fd5788d79500db9bd93145 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588603036 +0700	commit: no message
+64006d10dfbe0a40a9fd5788d79500db9bd93145 12fb2da7bb6541f4678fe4505b35c29c1a62da9c ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588673950 +0700	pull --no-commit origin master: Fast-forward
+12fb2da7bb6541f4678fe4505b35c29c1a62da9c f447d337ea706f5f22f511f0630f089f63f56cf7 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588674216 +0700	commit: no message
+f447d337ea706f5f22f511f0630f089f63f56cf7 adb30fc5e4d2aff896c4e194ef8898a575a311c4 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588678050 +0700	commit: no message
+adb30fc5e4d2aff896c4e194ef8898a575a311c4 ea8035884095760bca7f6b31a15a27ba9815613a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588705659 +0700	commit: no message
+ea8035884095760bca7f6b31a15a27ba9815613a 211541acd13dcd02061cde1686c3f74006d03b0b ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588705670 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+211541acd13dcd02061cde1686c3f74006d03b0b a6479099bf5350afc46503c83bc5afb959088208 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588706489 +0700	commit: no message
+a6479099bf5350afc46503c83bc5afb959088208 7523914f015e8baeeed70bbd3269b8d734af28a7 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588706986 +0700	commit: no message
+7523914f015e8baeeed70bbd3269b8d734af28a7 fb376a3cb5d3611ce696713d8666aa7c545bf495 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588712196 +0700	commit: no message
+fb376a3cb5d3611ce696713d8666aa7c545bf495 7fc03e955be0d81e57029a75e8c937211e69417d ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588712320 +0700	commit: no message
+7fc03e955be0d81e57029a75e8c937211e69417d bc89678c3b90e88a3c88e34ee6f307bde161a563 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588771088 +0700	commit: no message
+bc89678c3b90e88a3c88e34ee6f307bde161a563 2ff194c4b92c210a35fcab4d1366d278152b11d7 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588771101 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+2ff194c4b92c210a35fcab4d1366d278152b11d7 6d354e046dfaaacd3dcb1f2fc0173cdcb48f339c ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588794182 +0700	commit: no message
+6d354e046dfaaacd3dcb1f2fc0173cdcb48f339c 33a3da16555ae2450cb4d561e04f1c78c5b920cb ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588794209 +0700	commit: no message
+33a3da16555ae2450cb4d561e04f1c78c5b920cb 227cc0179478d3e03a5da53536683c193fdb401a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588794316 +0700	commit: no message
+227cc0179478d3e03a5da53536683c193fdb401a 7a8394be89f46168e1edb44cea66be47cc07054d ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588794353 +0700	commit: no message
+7a8394be89f46168e1edb44cea66be47cc07054d 5705b362740a5006f4c37cea74b674ce62e5c0f6 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588839366 +0700	commit: no message
+5705b362740a5006f4c37cea74b674ce62e5c0f6 c6d76933231033c17c9e841d8a261845963416b5 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1588839637 +0700	commit: no message
+c6d76933231033c17c9e841d8a261845963416b5 5bede7905142fd9a686256fcd78e3da9458d134f ruj keawsongkort <ruj@siamsoftwaresolution.com> 1589046130 +0700	pull --no-commit origin master: Fast-forward
+5bede7905142fd9a686256fcd78e3da9458d134f d09f342ed3c2629a960f4469af425b9a517905eb ruj keawsongkort <ruj@siamsoftwaresolution.com> 1589288093 +0700	commit: no message
+d09f342ed3c2629a960f4469af425b9a517905eb 6ad36baeee2397c2c439c4ae76e32b386da0b770 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1589368845 +0700	commit: no message
+6ad36baeee2397c2c439c4ae76e32b386da0b770 c0c32d0e698daebf564f061e5ccc3e847804b5f3 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1589368861 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+c0c32d0e698daebf564f061e5ccc3e847804b5f3 682dc08f03ed61f0d031fda546a9513b845cc367 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1589379864 +0700	commit: no message
+682dc08f03ed61f0d031fda546a9513b845cc367 39d28a1bf8b5255955eed97dcf28f12743a8e24b ruj keawsongkort <ruj@siamsoftwaresolution.com> 1589380046 +0700	commit: no message
+39d28a1bf8b5255955eed97dcf28f12743a8e24b b5f827ee73759ae0255391399befa284e499e66f ruj keawsongkort <ruj@siamsoftwaresolution.com> 1589748763 +0700	commit: commit
+b5f827ee73759ae0255391399befa284e499e66f e95db071f56f39105b3ffc2bfaea3edcbe1e85c8 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1589749240 +0700	commit (merge): Merge branch 'master' of https://bitbucket.org/SiamSoftwareWebDev/tradepal
+e95db071f56f39105b3ffc2bfaea3edcbe1e85c8 b4637e9106e4e297a8b36926a8a47e58a9915ce6 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1589754627 +0700	commit: no message
+b4637e9106e4e297a8b36926a8a47e58a9915ce6 629ee6b886bf776510ac3b83669a518279f42304 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1589757717 +0700	commit: no message
+629ee6b886bf776510ac3b83669a518279f42304 2e2ca2cf0020dc927507230c2c626b7214e73f7f ruj keawsongkort <ruj@siamsoftwaresolution.com> 1589800646 +0700	commit: no message
+2e2ca2cf0020dc927507230c2c626b7214e73f7f 6402597a853212cd5831f19e061f34d1557a8b18 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1589914966 +0700	commit: no message
+6402597a853212cd5831f19e061f34d1557a8b18 529bda7377c875aae01eaf024aea4ee7022ef378 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1590482011 +0700	commit: staff
+529bda7377c875aae01eaf024aea4ee7022ef378 b62b21c70ce8c8b4ff36331e4ce763ec99a84454 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1590482848 +0700	commit: no message
+b62b21c70ce8c8b4ff36331e4ce763ec99a84454 27424e05fd43232b75209314810b398dc1b0f5ed ruj keawsongkort <ruj@siamsoftwaresolution.com> 1590655915 +0700	commit: password
+27424e05fd43232b75209314810b398dc1b0f5ed 4a918a5f3ce84ce5f63d5163058ceec212239849 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1590655979 +0700	commit: no message
+4a918a5f3ce84ce5f63d5163058ceec212239849 a7355dee4181329a13db33538ddcc939c9da7c21 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1590677082 +0700	commit: no message
+a7355dee4181329a13db33538ddcc939c9da7c21 c0a51761daeae1b7fb6acaf89234560eeaaf4555 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1591156356 +0700	commit: no message
+c0a51761daeae1b7fb6acaf89234560eeaaf4555 30ba2b255c36a0cbfa9e4894a4ded24f7810be07 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1592996914 +0700	commit: no message
+30ba2b255c36a0cbfa9e4894a4ded24f7810be07 dbaf96d835f6092d155acc1a0e0d50bc110abb46 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1592998525 +0700	commit: no message
+dbaf96d835f6092d155acc1a0e0d50bc110abb46 53221adf8c30e3f213b9d52aba642632078bd646 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1592999074 +0700	commit: no message
+53221adf8c30e3f213b9d52aba642632078bd646 ef9778b99f825310b2dbeae8297fbeb557b24eba ruj keawsongkort <ruj@siamsoftwaresolution.com> 1592999348 +0700	commit: no message
+ef9778b99f825310b2dbeae8297fbeb557b24eba 776b90be1c092d5e8bbfa1c8977a4abbb544df11 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1592999668 +0700	commit: no message
+776b90be1c092d5e8bbfa1c8977a4abbb544df11 660924f0b23fce8f7fa0c9add1d59413435f7bd2 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1593000073 +0700	commit: no message
+660924f0b23fce8f7fa0c9add1d59413435f7bd2 6736718c7559f4ca6eee5245475bb063bf2b4c5b ruj keawsongkort <ruj@siamsoftwaresolution.com> 1593012219 +0700	commit: no message
+6736718c7559f4ca6eee5245475bb063bf2b4c5b 59d01464807e06ad3c2ca8020fb514e2fe9f72e5 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1593018626 +0700	commit: no message
+59d01464807e06ad3c2ca8020fb514e2fe9f72e5 3151f5b4baa98686bde8f21ec32ba7d13b8f0fc4 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1593019130 +0700	commit: no message
+3151f5b4baa98686bde8f21ec32ba7d13b8f0fc4 712b3dd08745bd32ac41c85b7a22c8feb04e5cbe ruj keawsongkort <ruj@siamsoftwaresolution.com> 1593019376 +0700	commit: no message
+712b3dd08745bd32ac41c85b7a22c8feb04e5cbe 0e76c33cf800e0fd938ed19801a44a563cd8dca6 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1597664276 +0700	commit: no message
+0e76c33cf800e0fd938ed19801a44a563cd8dca6 a3f7b3cfae288c80bfa0a4cde508482cdcf297cc ruj keawsongkort <ruj@siamsoftwaresolution.com> 1597686020 +0700	commit: no message
+a3f7b3cfae288c80bfa0a4cde508482cdcf297cc 23ba9190ee48b6ba6c912d5dc35fa58eb63fbc9e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1597768812 +0700	commit: no message
+23ba9190ee48b6ba6c912d5dc35fa58eb63fbc9e 88c3707bc8889c16d15cf28dd3a934ceb8843528 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1597770519 +0700	commit: no message
+88c3707bc8889c16d15cf28dd3a934ceb8843528 48d380236bbeec69a3097357de2c04f5d4084d6f ruj keawsongkort <ruj@siamsoftwaresolution.com> 1597770845 +0700	commit: no message
+48d380236bbeec69a3097357de2c04f5d4084d6f aa49b47302350e31ca3c9d7832e16711dec6f91c ruj keawsongkort <ruj@siamsoftwaresolution.com> 1597771288 +0700	commit: no message
+aa49b47302350e31ca3c9d7832e16711dec6f91c e6f01335e7bd776fd52d50e86ae17b8772dafaf6 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1597782784 +0700	commit: no message
+e6f01335e7bd776fd52d50e86ae17b8772dafaf6 ea03329b61e8afda8216902c739e1d89f8a7dd78 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1597783121 +0700	commit: no message
+ea03329b61e8afda8216902c739e1d89f8a7dd78 3d604450fbeae5e8ffcd16b9f057c9fc073ff28e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1597783294 +0700	commit: no message
+3d604450fbeae5e8ffcd16b9f057c9fc073ff28e dbce26a6dca23d95517a46e2a903b5cec2857dbf ruj keawsongkort <ruj@siamsoftwaresolution.com> 1597783395 +0700	commit: no message
+dbce26a6dca23d95517a46e2a903b5cec2857dbf 0b77245b80b93bb458cdc51880f69803e259decf ruj keawsongkort <ruj@siamsoftwaresolution.com> 1597783478 +0700	commit: no message
+0b77245b80b93bb458cdc51880f69803e259decf f1d1ed4b76373ca8f1211914634b409cf2edfac6 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1597784161 +0700	commit: no message
+f1d1ed4b76373ca8f1211914634b409cf2edfac6 6fa014945b430c40200429bf32b8d590b2e6d6e2 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1598991484 +0700	commit: TradePal vehicle handover acknowledgement V0.1.xlsx
+6fa014945b430c40200429bf32b8d590b2e6d6e2 7626acd05d146efc4f42324c573d2ad55d9f0d64 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1600889589 +0700	commit: commit
+7626acd05d146efc4f42324c573d2ad55d9f0d64 44725726af9186cf4c608a21b1d00ff8b9e879eb ruj keawsongkort <ruj@siamsoftwaresolution.com> 1600890585 +0700	commit: no message
+44725726af9186cf4c608a21b1d00ff8b9e879eb 9fe2aabf7572738568057b117479bc4add27ebf1 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1600892413 +0700	commit: no message
+9fe2aabf7572738568057b117479bc4add27ebf1 9137c802f791cbd906e3c4ea95d685b05d992a5b ruj keawsongkort <ruj@siamsoftwaresolution.com> 1600892555 +0700	commit: no message
+9137c802f791cbd906e3c4ea95d685b05d992a5b 14a59abef7d01ec976eedc18237fcc3c7ba9b3b5 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1600892659 +0700	commit: no message
+14a59abef7d01ec976eedc18237fcc3c7ba9b3b5 e6182df637e95f16e7443dc8bf5b4d99ab691603 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1600892704 +0700	commit: no message
+e6182df637e95f16e7443dc8bf5b4d99ab691603 5472a0e78fa01f4552e6bc1da66adfbce4788419 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1600893224 +0700	commit: no message
+5472a0e78fa01f4552e6bc1da66adfbce4788419 20a06cd943c643c74aa588780c34f1f6a082bd9e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1600894019 +0700	commit: no message
+20a06cd943c643c74aa588780c34f1f6a082bd9e b1a29434a72505888e70d214e9aa932b1af0c0c8 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1601309094 +0700	commit: commit
+b1a29434a72505888e70d214e9aa932b1af0c0c8 5736f87115d50c5a7f6468a9b7284e173c3fa4bc ruj keawsongkort <ruj@siamsoftwaresolution.com> 1601312042 +0700	commit: no message
+5736f87115d50c5a7f6468a9b7284e173c3fa4bc 72ae76631a1fc3d955d88087b035f30a3d603591 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1601312268 +0700	commit: no message
+72ae76631a1fc3d955d88087b035f30a3d603591 adff84bf9dfd22a6d2c5f6cd1c1f149a69331b82 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1601312452 +0700	commit: no message
+adff84bf9dfd22a6d2c5f6cd1c1f149a69331b82 885a14dc6b2301c31c31d6853e81585a7254fcb2 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1601313290 +0700	commit: no message
+885a14dc6b2301c31c31d6853e81585a7254fcb2 56113af0e4a3a8193bc5182876b28a1e6d8eb486 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1601313954 +0700	commit: no message
+56113af0e4a3a8193bc5182876b28a1e6d8eb486 4ea6266a55cd6aab357123d06aa1ce641cc8e8cb ruj keawsongkort <ruj@siamsoftwaresolution.com> 1601838914 +0700	commit: no message
+4ea6266a55cd6aab357123d06aa1ce641cc8e8cb feb3c7441f0ae40386978d12bbaf518a394abe8e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1601839645 +0700	commit: no message
+feb3c7441f0ae40386978d12bbaf518a394abe8e caa97d42ca58d04099695ac340a325bf743f3b9b ruj keawsongkort <ruj@siamsoftwaresolution.com> 1601839890 +0700	commit: no message
+caa97d42ca58d04099695ac340a325bf743f3b9b a41e23d1f3f68cb70df2ed6b19505e38510bcf39 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1601889119 +0700	commit: no message
+a41e23d1f3f68cb70df2ed6b19505e38510bcf39 3954df95fa996f8850570e6fd5232ef92ee2ef90 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1605511291 +0700	commit: commit
+3954df95fa996f8850570e6fd5232ef92ee2ef90 2b8c5ea8fe60076b939bb10c1be18b9424c24360 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1606204270 +0700	commit: no message
+2b8c5ea8fe60076b939bb10c1be18b9424c24360 b2570e630f73f65cf55fba8e67fd9b14cf6f799f ruj keawsongkort <ruj@siamsoftwaresolution.com> 1606204389 +0700	commit: commit
+b2570e630f73f65cf55fba8e67fd9b14cf6f799f 73ab59a9bb9253aaca088ddf7ab02ce849cde3f9 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1606205405 +0700	commit: commit
+73ab59a9bb9253aaca088ddf7ab02ce849cde3f9 f301b07b38797812cc1b424d71d4cfae9680b305 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1606726751 +0700	commit: no message
+f301b07b38797812cc1b424d71d4cfae9680b305 6d09718a34fc60eb99fa0b8b83e65698e4c7d85a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1606900665 +0700	commit: no message
+6d09718a34fc60eb99fa0b8b83e65698e4c7d85a 83bb76ab61e4b4732f056ed52cdca3161811af0a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1606900858 +0700	commit: no message
+83bb76ab61e4b4732f056ed52cdca3161811af0a 15e940cea5c13a44cbf29f3c076829631dab1d9f ruj keawsongkort <ruj@siamsoftwaresolution.com> 1606901361 +0700	commit: no message
+15e940cea5c13a44cbf29f3c076829631dab1d9f 57daba99c73de1a29dd9bdf7b9b6c68a8e5f6668 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1606901538 +0700	commit: no message
+57daba99c73de1a29dd9bdf7b9b6c68a8e5f6668 f85299da8840e52120af1a63152f8cb5247a38e7 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1606901822 +0700	commit: commit
+f85299da8840e52120af1a63152f8cb5247a38e7 29976190fa70c61476bc6c08025e52068d439514 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609310679 +0700	commit: commit
+29976190fa70c61476bc6c08025e52068d439514 b21e7180cbb9a93432f38e3f16a02a5b37b941ad ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609311631 +0700	commit: commit
+b21e7180cbb9a93432f38e3f16a02a5b37b941ad e036a0be822d545685100a7cab470f908b58af42 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609311719 +0700	commit: commit
+e036a0be822d545685100a7cab470f908b58af42 1a0db6600cbd5b048b97d4e4393509dd1ad47b01 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609313108 +0700	commit: commit
+1a0db6600cbd5b048b97d4e4393509dd1ad47b01 47f5c82171ad638c899113be9e419e5eaae4a170 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609313565 +0700	commit: commit
+47f5c82171ad638c899113be9e419e5eaae4a170 396729310598f3792b8d68bf7776b37149547c7d ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609739209 +0700	commit: commit
+396729310598f3792b8d68bf7776b37149547c7d 10bd9374a56db178f0e3c858a91a9850458a2265 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609924866 +0700	commit: commit
+10bd9374a56db178f0e3c858a91a9850458a2265 202fdee3d5adf5361fb1c5fdaef36071adadf316 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609925175 +0700	commit: commit
+202fdee3d5adf5361fb1c5fdaef36071adadf316 3cf5739a57211ac2b28efbee14c1eba74b029855 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609927454 +0700	commit: commit
+3cf5739a57211ac2b28efbee14c1eba74b029855 b5b5da369e88ab4eb871298460bfc3100608fa4b ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609927683 +0700	commit: commit
+b5b5da369e88ab4eb871298460bfc3100608fa4b 03d4bc1368de05cfd7ec8f6aa99ee7cf989b0585 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609928086 +0700	commit: commit
+03d4bc1368de05cfd7ec8f6aa99ee7cf989b0585 d25e8efaa2d70089df59a243d250cdcadaf6e41c ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609928349 +0700	commit: commit
+d25e8efaa2d70089df59a243d250cdcadaf6e41c b72a6ac0c4474052c81dfa7ea3d9fc63cf51c14b ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609928560 +0700	commit: commit
+b72a6ac0c4474052c81dfa7ea3d9fc63cf51c14b 59e117df37ac2f47423e25af11c3418a7d0fa99d ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609937000 +0700	commit: commit
+59e117df37ac2f47423e25af11c3418a7d0fa99d dc9a998a34b8c9a281c5e9c18d4ddfebcc030c6e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609937662 +0700	commit: commit
+dc9a998a34b8c9a281c5e9c18d4ddfebcc030c6e af4467853cb1e9e74631159683916ee51d6ada16 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609939368 +0700	commit: commit
+af4467853cb1e9e74631159683916ee51d6ada16 d7ee425a8de0bb0fcb7bef2590ee4c1e5b43c444 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609943237 +0700	commit: commit
+d7ee425a8de0bb0fcb7bef2590ee4c1e5b43c444 b75de74d142f95fde0dc14fe08f1fbbf54805f9e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609943668 +0700	commit: commit
+b75de74d142f95fde0dc14fe08f1fbbf54805f9e 2cc93a6da6faeca2b369c697e5a0fe61ba01a9ec ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609943729 +0700	commit: commit
+2cc93a6da6faeca2b369c697e5a0fe61ba01a9ec 88e61cd0bef9bfb674197b90144fd560d4b131ef ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609943967 +0700	commit: commit
+88e61cd0bef9bfb674197b90144fd560d4b131ef e730addb43d1e041b84d835eb7756b46ef25ea91 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609944623 +0700	commit: commit
+e730addb43d1e041b84d835eb7756b46ef25ea91 f133ed3407aad056c9a325c85644b44475c6bef6 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1609945323 +0700	commit: commit
+f133ed3407aad056c9a325c85644b44475c6bef6 5a2a8acc46e2a1eec4b908188ee3108e8f72db03 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611071238 +0700	commit: commit
+5a2a8acc46e2a1eec4b908188ee3108e8f72db03 f538e4a3b786c35d69cfc3b3f5ebe2da0046b464 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611211916 +0700	commit: commit
+f538e4a3b786c35d69cfc3b3f5ebe2da0046b464 40d75fa919c8fb40a2f5a1fe85283be7db01f19d ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611895668 +0700	commit: commit
+40d75fa919c8fb40a2f5a1fe85283be7db01f19d bbefc5e8715d165d58b02ea72af2ee549d4121ee ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611895918 +0700	commit: commit
+bbefc5e8715d165d58b02ea72af2ee549d4121ee 87344eef64adbea745518defd79e89a3af5694b6 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611897197 +0700	commit: commit
+87344eef64adbea745518defd79e89a3af5694b6 9b28a0ca7b76127b9a40ab20002b74505217a504 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611897619 +0700	commit: commit
+9b28a0ca7b76127b9a40ab20002b74505217a504 9fb0c4aba654d71dd80e17ab80721a770cea8b1e ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611898318 +0700	commit: commit
+9fb0c4aba654d71dd80e17ab80721a770cea8b1e 79ccc0351e590f79079c81112edb4da790eea419 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611898814 +0700	commit: commit
+79ccc0351e590f79079c81112edb4da790eea419 f5cfb07889373ff4ea7199bd11427dabb294bdc0 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611899600 +0700	commit: commit
+f5cfb07889373ff4ea7199bd11427dabb294bdc0 d89bf5d4d8c71cf0ae5439815a16aeb5334a5bd2 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611899808 +0700	commit: commit
+d89bf5d4d8c71cf0ae5439815a16aeb5334a5bd2 8c4af2165311ece32b6e3079e5b0c8b642bd2c19 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611900100 +0700	commit: commit
+8c4af2165311ece32b6e3079e5b0c8b642bd2c19 d4fbb99143a46ac984680da9d7b7e8ec74e9fff4 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611900333 +0700	commit: commit
+d4fbb99143a46ac984680da9d7b7e8ec74e9fff4 ad247ed2c04449d018f8e49f65e6aa011c077717 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611900506 +0700	commit: commit
+ad247ed2c04449d018f8e49f65e6aa011c077717 ed1a3eaddcce7eb26cdd8ab7393a8aada7887165 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611901312 +0700	commit: commit
+ed1a3eaddcce7eb26cdd8ab7393a8aada7887165 195bc7193101ab4d070fdd5b89ef41176522f714 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611902609 +0700	commit: commit
+195bc7193101ab4d070fdd5b89ef41176522f714 5ed01ee856b0202ca60357bbd5df316ecba13fa7 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611903489 +0700	commit: commit
+5ed01ee856b0202ca60357bbd5df316ecba13fa7 96198b41f1cbda211308e929c7316af16e80f9e9 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1611903541 +0700	commit: commit
+96198b41f1cbda211308e929c7316af16e80f9e9 741404660f6b0f089d2d4950f51f5ec7f951e166 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1613672325 +0700	commit: commit
+741404660f6b0f089d2d4950f51f5ec7f951e166 04eaf1bf3f7373cacfbbb7df6cf9c9e860696696 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1613672539 +0700	commit: commit
+04eaf1bf3f7373cacfbbb7df6cf9c9e860696696 b5c619e19a2fcdad0fd526f79851bcd6c9e503cd ruj keawsongkort <ruj@siamsoftwaresolution.com> 1613998848 +0700	commit: commit
+b5c619e19a2fcdad0fd526f79851bcd6c9e503cd ba6b9622d8c4fecbedca5dbbe55d97fda9db62e0 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1613998863 +0700	commit: commit
+ba6b9622d8c4fecbedca5dbbe55d97fda9db62e0 45519554f26b84c35f732c6ed443175359374eed ruj keawsongkort <ruj@siamsoftwaresolution.com> 1614001403 +0700	commit: commit
+45519554f26b84c35f732c6ed443175359374eed 289153fcaf6aa928ce70e43262e1d73c0b51e181 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1614753323 +0700	commit: commit
+289153fcaf6aa928ce70e43262e1d73c0b51e181 679d8a38283d38d9dde2318ab5a4a34365e108b4 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1614754720 +0700	commit: commit
+679d8a38283d38d9dde2318ab5a4a34365e108b4 b6771588d9c8eef8ed1e700ec6871eeda148e250 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1614755166 +0700	commit: commit
+b6771588d9c8eef8ed1e700ec6871eeda148e250 653634d4b4f058a8378349e1eeb085e6f6a99be6 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1614829918 +0700	commit: commit
+653634d4b4f058a8378349e1eeb085e6f6a99be6 dab7a4d1522f6f99b57f7e9aabfcf1e35e398541 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1614920647 +0700	commit: commit
+dab7a4d1522f6f99b57f7e9aabfcf1e35e398541 13c7b5591ee0dbbb6bc40336fbd520273f6f61b8 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1616416070 +0700	commit: commit
+13c7b5591ee0dbbb6bc40336fbd520273f6f61b8 0c28438367a294aceca99fbfc3053f43f1efa8c8 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1616416338 +0700	commit: commit
+0c28438367a294aceca99fbfc3053f43f1efa8c8 9cbfb3ee48c3ffb20a0d0e87795d500cd775cad6 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1627895733 +0700	commit: commit
+9cbfb3ee48c3ffb20a0d0e87795d500cd775cad6 4468b1b47c93f73304c615abbe0a9095e377c7d3 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1627896733 +0700	commit: commit
+4468b1b47c93f73304c615abbe0a9095e377c7d3 2a8c049bbd0b2e754e8497fccf26d21c0ee2036f ruj keawsongkort <ruj@siamsoftwaresolution.com> 1627973307 +0700	commit: commit
+2a8c049bbd0b2e754e8497fccf26d21c0ee2036f 1bd4ccc522c53b582cad00e60afbfac36d679b88 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1627992705 +0700	commit: commit
+1bd4ccc522c53b582cad00e60afbfac36d679b88 f886eaa1cd8211ae85f141565f43831a35d9f379 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1627993291 +0700	commit: commit
+f886eaa1cd8211ae85f141565f43831a35d9f379 392394a458f230f0d79e3004a906f25816e7213a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1627999507 +0700	commit: commit
+392394a458f230f0d79e3004a906f25816e7213a b3e546ffc0a1328919e53b9b976ea541909f4ec1 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1627999599 +0700	commit: commit
+b3e546ffc0a1328919e53b9b976ea541909f4ec1 4a3e53a30c8084b5549151bdd5751ef3d39d02a4 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628058558 +0700	commit: commit
+4a3e53a30c8084b5549151bdd5751ef3d39d02a4 8517307ad215f27fd5a6d98d08d9ddff616826bf ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628063580 +0700	commit: commit
+8517307ad215f27fd5a6d98d08d9ddff616826bf 981029f519f2c3a66ff1be0f5a321579ca4bef28 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628063609 +0700	commit: commit
+981029f519f2c3a66ff1be0f5a321579ca4bef28 a23b84597da287e8f4cadef52ed91b3569203102 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628063806 +0700	commit: commit
+a23b84597da287e8f4cadef52ed91b3569203102 2aeed8bb35b2ecd066bbf9a2ef20597e511645ec ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628063996 +0700	commit: commit
+2aeed8bb35b2ecd066bbf9a2ef20597e511645ec 1f3c33173ead789d48726e9e74fb9ea3b886fc5c ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628064071 +0700	commit: commit
+1f3c33173ead789d48726e9e74fb9ea3b886fc5c 427d7ccfcae95bd77e4851aa4ea494dd703e24ee ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628064244 +0700	commit: commit
+427d7ccfcae95bd77e4851aa4ea494dd703e24ee e8d554e1f2af525ceff436a1329d11422ea057b6 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628179528 +0700	commit: commit
+e8d554e1f2af525ceff436a1329d11422ea057b6 05dceb126f67d0933fe2c89c0745dadc4b9cc43a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628180600 +0700	commit: commit
+05dceb126f67d0933fe2c89c0745dadc4b9cc43a 07f91454c854a876dfae49d8e61cb131a1c72243 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628182323 +0700	commit: commit
+07f91454c854a876dfae49d8e61cb131a1c72243 841ed06a4b9f84b650ab0113f1cfb9024df7be9a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628616528 +0700	commit: commit
+841ed06a4b9f84b650ab0113f1cfb9024df7be9a a43819b4a7457e60179a858dd60cf9b29749fe05 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628617317 +0700	commit: commit
+a43819b4a7457e60179a858dd60cf9b29749fe05 a1f48c7d16feed0e26fb2f305f9149a491b72a06 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628617998 +0700	commit: commit
+a1f48c7d16feed0e26fb2f305f9149a491b72a06 cb32b28f1ea8c58b7957deefc7949b7b5727e108 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628618318 +0700	commit: commit
+cb32b28f1ea8c58b7957deefc7949b7b5727e108 0e8930c4118a7d66a6877964b4c09558b1e09d4a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628619958 +0700	commit: commit
+0e8930c4118a7d66a6877964b4c09558b1e09d4a fe7ac6bb8ebb988fdee5451ad4dd5a233ed090d1 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628621873 +0700	commit: commit
+fe7ac6bb8ebb988fdee5451ad4dd5a233ed090d1 a7970b6aca7149d6b69ff434fd91e7c7103e8826 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628628753 +0700	commit: commit
+a7970b6aca7149d6b69ff434fd91e7c7103e8826 cd8c2c7345c47c74ef9c584136ff257a0fb3f5da ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628699746 +0700	commit: commit
+cd8c2c7345c47c74ef9c584136ff257a0fb3f5da f27c94e44f2ff4fb42a1a71fb8b8ff345d084cf9 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1628701741 +0700	commit: commit
+f27c94e44f2ff4fb42a1a71fb8b8ff345d084cf9 d336e52a2427db116664841298ec8c26f3f77b7d ruj keawsongkort <ruj@siamsoftwaresolution.com> 1629219598 +0700	commit: commit
+d336e52a2427db116664841298ec8c26f3f77b7d 705e4962b318fb6727aea2ce7dfe0a798c164fd8 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1629220725 +0700	commit: commit
+705e4962b318fb6727aea2ce7dfe0a798c164fd8 c50101994efc6200ec04a2da8b8b22951c6eb87a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1629225978 +0700	commit: commit
+c50101994efc6200ec04a2da8b8b22951c6eb87a 2fc9acce1a1442aae971a466e9ab5a07c2e2ac63 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1629226086 +0700	commit: commit
+2fc9acce1a1442aae971a466e9ab5a07c2e2ac63 171ee1e94f4255c697ccc0ae8d0219318e7786b8 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1629226189 +0700	commit: commit
+171ee1e94f4255c697ccc0ae8d0219318e7786b8 f27986a910d64474032482240713462239867b10 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1629228259 +0700	commit: commit
+f27986a910d64474032482240713462239867b10 733183e764617b844876516144b85c782f2c1535 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1629228668 +0700	commit: commit
+733183e764617b844876516144b85c782f2c1535 d4f31052be72d05fdb7ad1c315dd9865c859165a ruj keawsongkort <ruj@siamsoftwaresolution.com> 1629228802 +0700	commit: commit
+d4f31052be72d05fdb7ad1c315dd9865c859165a 5b81e08ca1acb618a367264182ec3dab6b6f8eeb ruj keawsongkort <ruj@siamsoftwaresolution.com> 1629286252 +0700	commit: commit
+5b81e08ca1acb618a367264182ec3dab6b6f8eeb dc774fd4c14b3496b9faeb23600b6ae5374e29c7 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1630999644 +0700	commit: commit
+dc774fd4c14b3496b9faeb23600b6ae5374e29c7 7adc55c02e81f498c2cc747e66ce8afdb64e9963 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1630999758 +0700	commit: commit
+7adc55c02e81f498c2cc747e66ce8afdb64e9963 75d7897bbc1d5c248ef666e0f2c08e8247b4035b ruj keawsongkort <ruj@siamsoftwaresolution.com> 1631004996 +0700	commit: commit
+75d7897bbc1d5c248ef666e0f2c08e8247b4035b fdfe5a7799bb6c8f9872a134ac4a6731613b5292 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1631097669 +0700	commit: commit
+fdfe5a7799bb6c8f9872a134ac4a6731613b5292 750b44e7843465f764725374448d844bb80c33d5 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1631097820 +0700	commit: commit
+750b44e7843465f764725374448d844bb80c33d5 95e44a125efe5e5df4880e6b5028feed9d10acc1 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1631347625 +0700	commit: commit
+95e44a125efe5e5df4880e6b5028feed9d10acc1 8f5e9351efee620a43ecfdbb5997876538b3b5c9 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1631350270 +0700	commit: commit
+8f5e9351efee620a43ecfdbb5997876538b3b5c9 3c8bd15ca23e1fa12f290bd3bf1870e95e71cfc8 ruj keawsongkort <ruj@siamsoftwaresolution.com> 1636362580 +0700	commit: no message
